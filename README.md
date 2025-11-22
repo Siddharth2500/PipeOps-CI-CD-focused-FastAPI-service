@@ -23,7 +23,7 @@ Key Features:
 - ☸️ **Kubernetes manifests** (Deployment, Service)  
 - 🔧 **Makefile** for developer shortcuts  
 
----
+--------
 
 ## 🛠️ Tech Stack
 
