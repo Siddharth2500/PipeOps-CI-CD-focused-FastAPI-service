@@ -36,7 +36,7 @@ Key Features:
 | **Monitoring**       | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus) | Metrics scraping |
 | **CI/CD**            | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions) | Automated tests & build pipeline |
 
----
+-----
 
 ## 🌐 Architecture
 
