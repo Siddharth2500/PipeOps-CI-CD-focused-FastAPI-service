@@ -50,7 +50,7 @@ Key Features:
 4. Deployed as a **Docker container** → **Kubernetes Deployment & Service**  
 5. **GitHub Actions** ensures CI/CD automation  
 
----
+------
 
 ## 📦 Repository Structure
 
