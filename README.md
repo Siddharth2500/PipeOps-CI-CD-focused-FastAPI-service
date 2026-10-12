@@ -192,7 +192,7 @@ Swagger UI auto-docs available at /docs
 
 ReDoc docs at /redoc
 
------
+-------
 
 📧 Contact
 Author: Siddharth Raut
